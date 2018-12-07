@@ -19,3 +19,5 @@ The fully reusable components will bring you, your team, and new visitors years 
 XWP thanks you for helping us bring the best technology of the web to WordPress and contributing to the WordPress project. The future of the open web depends on your help.
 
 Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.
+
+![screenshot](screenshot.jpg)
