@@ -1,6 +1,6 @@
 # Designer and Developer Handbook
 
-Say Hello to Gutenblox
+Say Hello to [Gutenblox](http://gutenblox.fun/)!  👋 🧱
 
 ## Introduction
 
